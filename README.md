@@ -37,7 +37,9 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](<even .png>)
+
+<img width="903" height="222" alt="image" src="https://github.com/user-attachments/assets/74d041ea-cb07-46ac-9e1e-e807c64767c9" />
+
 
 ## RESULT:
 Thus the program to print even numbers ranging from M to N (including M and N values) has been executed successfully
