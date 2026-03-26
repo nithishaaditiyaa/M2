@@ -89,7 +89,9 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](pattern.png)
+<img width="885" height="422" alt="Screenshot 2026-03-26 111455" src="https://github.com/user-attachments/assets/15ba7253-cc8b-47e6-898e-f2446aecffda" />
+
+
 
 ## RESULT:
 
@@ -138,7 +140,8 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](<add and sub.png>)
+<img width="904" height="259" alt="Screenshot 2026-03-26 111606" src="https://github.com/user-attachments/assets/b0784b3b-e3ef-4056-b60a-5e41cfaa9288" />
+
 
 ## RESULT:
 
@@ -182,7 +185,9 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](<sum of add.png>)
+<img width="917" height="221" alt="Screenshot 2026-03-26 111803" src="https://github.com/user-attachments/assets/c94a3866-4379-494e-8551-e1fa7b64e3fe" />
+
+
 
 ## RESULT:
 
@@ -226,7 +231,8 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](factorial.png)
+<img width="900" height="198" alt="Screenshot 2026-03-26 113258" src="https://github.com/user-attachments/assets/96019111-b570-4fa1-a932-0dc39e4358a8" />
+
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
