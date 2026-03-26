@@ -38,7 +38,9 @@ int main()
 ## OUTPUT:
 
 
-<img width="903" height="222" alt="image" src="https://github.com/user-attachments/assets/74d041ea-cb07-46ac-9e1e-e807c64767c9" />
+
+<img width="902" height="233" alt="Screenshot 2026-03-26 110635" src="https://github.com/user-attachments/assets/1580b5bf-aef8-4aa0-a59e-91e1104a9610" />
+
 
 
 ## RESULT:
